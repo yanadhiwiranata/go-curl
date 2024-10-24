@@ -1,9 +1,9 @@
-
 package main
 
 import (
-	curl "github.com/andelf/go-curl"
 	"time"
+
+	curl "github.com/yanadhiwiranata/go-curl"
 )
 
 func main() {

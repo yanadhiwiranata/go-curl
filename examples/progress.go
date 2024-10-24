@@ -4,8 +4,9 @@ package main
 
 import (
 	"fmt"
-	curl "github.com/andelf/go-curl"
 	"time"
+
+	curl "github.com/yanadhiwiranata/go-curl"
 )
 
 func write_data(ptr []byte, userdata interface{}) bool {

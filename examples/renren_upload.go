@@ -3,9 +3,10 @@ package main
 
 import (
 	"fmt"
-	curl "github.com/andelf/go-curl"
 	"regexp"
 	"time"
+
+	curl "github.com/yanadhiwiranata/go-curl"
 )
 
 func getUploadUrl() string {

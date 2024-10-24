@@ -41,7 +41,7 @@ Requirements
 How to Install
 --------------
 
-    $ go get -u github.com/andelf/go-curl
+    $ go get -u github.com/yanadhiwiranata/go-curl
 
 Current Status
 --------------
@@ -61,7 +61,7 @@ package main
 
 import (
     "fmt"
-    curl "github.com/andelf/go-curl"
+    curl "github.com/yanadhiwiranata/go-curl"
 )
 
 func main() {
